@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "name": "Asus",
+      "price": "85000",
+      "id": 1
+    },
+    {
+      "name": "Hp",
+      "price": "50000",
+      "id": 2
+    },
+    {
+      "name": "Remera",
+      "price": "1200",
+      "id": 3
+    }
+  ]
+}
